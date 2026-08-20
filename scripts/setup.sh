@@ -30,7 +30,7 @@ cat <<'MSG'
 Setup linked.
 
 Next steps:
-  1. Ensure Neovim >= 0.11.3 is installed.
+  1. Ensure Neovim >= 0.12.0 is installed.
   2. Start `nvim`; lazy.nvim will bootstrap and install plugins.
   3. Commit the generated `nvim/lazy-lock.json` to freeze exact plugin commits.
   4. Start tmux and press Prefix + I (Ctrl-a then Shift-I) once to install TPM plugins.

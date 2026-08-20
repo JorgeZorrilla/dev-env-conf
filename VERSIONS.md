@@ -2,7 +2,7 @@
 
 This repository intentionally separates **compatibility constraints** from the exact plugin lock.
 
-- Neovim: `>= 0.11.3` (required by current nvim-lspconfig)
+- Neovim: `>= 0.12.0` (required by current nvim-lspconfig)
 - blink.cmp: `1.*`
 - lazy.nvim: stable branch
 - Other plugins: resolved by lazy.nvim and frozen to exact Git commits in `nvim/lazy-lock.json`
